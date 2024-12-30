@@ -13,6 +13,9 @@
     
 
 <div class="a">SARIM APTECH</div>
-    
+    .a{
+
+    background-color: brown;
+}
 </body>
 </html>
